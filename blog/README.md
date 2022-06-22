@@ -1,10 +1,10 @@
 ---
 home: true
 layout: Blog
-icon: home
+icon: hom
 title: 博客主页
 heroImage: /logo.svg
-heroText: JinweiOS #TODO: 你博客的名称
+heroText: 博客的名称 #TODO: 你博客的名称
 heroFullScreen: true
 tagline: 你可以在这里放置你的口号与标语 #TODO: 你可以在这里放置你的口号与标语
 projects:
